@@ -7,5 +7,6 @@ namespace ExcellencyShop
 {
     public class Home
     {
+        Public int HomeID {get;set;}
     }
 }
